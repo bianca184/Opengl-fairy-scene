@@ -1,0 +1,74 @@
+# =========================
+# Visual Studio
+# =========================
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# =========================
+# Build folders
+# =========================
+x64/
+x86/
+Debug/
+Release/
+build/
+bin/
+obj/
+
+# =========================
+# Visual Studio cache / IPCH
+# =========================
+*.ipch
+ipch/
+*.VC.db
+*.VC.opendb
+
+# =========================
+# Compiled / build files
+# =========================
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.idb
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.cache
+*.bak
+
+# =========================
+# Archives
+# =========================
+*.rar
+*.zip
+*.7z
+
+# =========================
+# Blender / 3D source files
+# =========================
+*.blend
+*.blend1
+
+# =========================
+# OS files
+# =========================
+Thumbs.db
+.DS_Store
+
+# =========================
+# Large models (exclude)
+# =========================
+Street/models/
+Street/models/MapUntitled.obj

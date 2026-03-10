@@ -1,0 +1,22 @@
+# Blender 5.0.0 MTL File: 'tree.blend'
+# www.blender.org
+
+newmtl DB2X2_L01
+Ns 16.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd obiecte/Tree/Tree 02/DB2X2_L01.png
+
+newmtl Trank_bark
+Ns 16.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd obiecte/Tree/Tree 02/bark_0004.jpg
